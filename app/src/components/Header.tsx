@@ -1,7 +1,7 @@
 function Header() {
   return (
     <div>
-      <h1>To be released soon</h1>
+      <h1>Test</h1>
     </div>
   );
 }
