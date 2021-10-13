@@ -1,0 +1,8 @@
+@import "src/App";
+
+.content {
+  color: $secondary-text-color;
+  background-color: $primary-color;
+  //TODO remove if enough content is aviable
+  height: 50em;
+}
